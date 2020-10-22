@@ -10,3 +10,5 @@ Run this program in show images equals "TRUE" to see each image and what the mac
 
 After setting your threshold update the threshold csv file and run a batch analysis. 
 
+Rhalena A. Thomas and Eddie Cai
+
