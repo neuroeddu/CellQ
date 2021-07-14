@@ -39,8 +39,8 @@ def getChannels(subFolder):
 	gd.addMessage("")
   	gd.addStringField("Channel d0:", "Dapi")
   	gd.addStringField("Channel d1:", "MAP2")
-  	gd.addStringField("Channel d2:", "")
-  	gd.addStringField("Channel d3:", "")
+  	gd.addStringField("Channel d2:", "ki67")
+  	gd.addStringField("Channel d3:", "Brn2")
   	gd.addMessage("")
   	
   	gd.showDialog()
